@@ -1,8 +1,8 @@
 Fractures detection on X-Ray images using Machine Learning
 # Preparation
-1. Keras
-1. MobileNet
-1. MURA
+1. [Keras](https://keras.io/)
+1. [MobileNetV2](https://arxiv.org/abs/1801.04381)
+1. [MURA](https://arxiv.org/abs/1712.06957)
 # Performance
 ![Aaron Swartz](https://raw.githubusercontent.com/Arith2/yuzhu_MURA_MobileNet/master/steps100_acc_loss_draw1.jpg)
 # Log
