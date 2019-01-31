@@ -1,4 +1,13 @@
 Fractures detection on X-Ray images using Machine Learning
+# Introduction
+1. train.py: used to train the model 
+1. load.py: used to verify the model in Raspberry Pi
+1. mobilenet_v2.py: used to build MobileNetV2[[link]](https://github.com/xiaochus/MobileNetV2)
+1. mobilenet_v2_self_design.py: used to build MobileNetV2 with Sequential()
+1. MobileNetV2.png: show the structure of MobileNetV2
+1. XR_HUMERUS_MobileNetV2_01_26_23_54.json: show record
+1. steps100_acc_loss_draw1.jpg: show the graph of loss and accuracy
+1. Final_report.pdf: the summary about this project
 # Preparation
 1. [Keras](https://keras.io/)
 1. [MobileNetV2](https://arxiv.org/abs/1801.04381)
