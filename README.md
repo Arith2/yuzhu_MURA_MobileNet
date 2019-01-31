@@ -7,6 +7,7 @@ Fractures detection on X-Ray images using Machine Learning
 1. Model: MobileNetV2
 1. Dataset: XR_HUMERUS
 1. Accuracy: 68.9%
+
 ![Aaron Swartz](https://raw.githubusercontent.com/Arith2/yuzhu_MURA_MobileNet/master/steps100_acc_loss_draw1.jpg)
 # Log
 ```json
