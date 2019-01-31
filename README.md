@@ -12,6 +12,7 @@ Fractures detection on X-Ray images using Machine Learning
 1. [Keras](https://keras.io/)
 1. [MobileNetV2](https://arxiv.org/abs/1801.04381)
 1. [MURA](https://arxiv.org/abs/1712.06957)
+1. Raspberry Pi
 # Performance
 1. Model: MobileNetV2
 1. Dataset: XR_HUMERUS
